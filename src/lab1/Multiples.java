@@ -17,8 +17,4 @@ public class Multiples {
         }
         return count;
     }
-
-    static int multiples() {
-
-    }
 }
